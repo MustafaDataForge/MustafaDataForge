@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mustafa! 👋
 
-<!--
-**MustafaDataForge/MustafaDataForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I'm passionate about Python, data analysis, and artificial intelligence. I enjoy exploring datasets, finding patterns, and turning data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+### 📚 Currently Learning
+- SQL
+- Advanced Data Analysis
+- Machine Learning
+
+### 🚀 Projects
+- Healthcare Data Analysis (55,000+ records)
+
+### 🎯 My Goal
+To become a skilled Data Scientist by building practical projects and continuously improving my technical skills.
+
+### 🤝 Connect With Me
+- LinkedIn: www.linkedin.com/in/muhammad-mustafa-khan-b514373b3
+
